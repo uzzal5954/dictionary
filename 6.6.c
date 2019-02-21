@@ -14,3 +14,4 @@ int main()
     }
     return 0;
  }
+//https://github.com/zamanrabeen671/dictionary/blob/master/6.6.c?fbclid=IwAR0dvD1D0qjSqP--dZWAgDAPwFuq0B6Pde0nCXMsnx4YUFcwwSJfZNYVeCc
